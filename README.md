@@ -111,6 +111,12 @@ DISCORD_TOKEN="TOKEN_BOT_ANDA_DI_SINI"
 python3 -m venv venv
 ```
 
+#### Buat Virtual Environment win
+
+```
+python -m venv venv
+```
+
 #### Aktifkan Virtual Environment
 
 - **macOS/Linux:**
@@ -168,3 +174,4 @@ Bot Anda sekarang akan online di Discord.
 ## ⚖️ Lisensi
 
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file LICENSE untuk detail lebih lanjut.
+
