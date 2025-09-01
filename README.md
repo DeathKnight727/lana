@@ -168,15 +168,3 @@ Bot Anda sekarang akan online di Discord.
 ## ⚖️ Lisensi
 
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file LICENSE untuk detail lebih lanjut.
-
-  @media print {
-    .ms-editor-squiggler {
-        display:none !important;
-    }
-  }
-  .ms-editor-squiggler {
-    all: initial;
-    display: block !important;
-    height: 0px !important;
-    width: 0px !important;
-  }
