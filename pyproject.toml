@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bot-lana"
+version = "0.1.0"
+description = "A music bot for Discord."
+
+# Baris ini memberitahu setuptools untuk mencari paket di dalam folder 'src'
+[tool.setuptools.packages.find]
+where = ["src"]
