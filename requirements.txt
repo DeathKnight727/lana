@@ -1,0 +1,11 @@
+# Framework utama untuk interaksi dengan Discord API
+discord.py
+
+# Untuk memuat variabel dari file .env (menyimpan token)
+python-dotenv
+
+# Diperlukan untuk enkripsi audio di voice channel
+PyNaCl
+
+# Pustaka untuk mengunduh informasi dan audio dari YouTube & situs lain
+yt-dlp
